@@ -1,0 +1,19 @@
+
+
+.search:hover{
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+.btn-outline-danger {
+    color: #F07162;
+    border-color: #F07162;
+}
+.btn-outline-danger:hover {
+    color: #fff;
+    background-color: #F07165;
+    border-color: #F07165;
+}
+.container-nav{
+    height: 110px;
+    border-radius: 0px 0px 30px 30px; 
+    opacity: .99;
+}
